@@ -1,6 +1,6 @@
 BasicScraper
 ============
-This is the most basic web scraper that grabs links from sites using the BeautifulSoup module. 
+This is a most basic web scraper that grabs links from sites using the BeautifulSoup module. 
 I'm pretty proud of it as it took me a while to figure out. One thing I can say about programming
 is, don't rely solely on shortcuts and skimming. Sometimes you have to get dirty and really comb 
 through documentation.If I had done that, I would have saved myself a lot of time and agony. Thanks
